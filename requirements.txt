@@ -1,0 +1,7 @@
+opencv-python
+pandas
+azure-cognitiveservices-vision-customvision
+msrest
+torch
+torchvision
+detectron2

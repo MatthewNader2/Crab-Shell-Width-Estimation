@@ -71,8 +71,9 @@ This project involves processing a video taken by a Remote Operated Vehicle (ROV
 Here are some sample images used in the project:
 
 ![Crab Example 1](data/download.png)
-![Crab Example 2](data/download (1).png)
-![Crab Example 3](data/download (2).png)
+![Crab Example 3](data/download(2).png)
+![Crab Example 2](data/download(3).png)
+![Crab Example 3](data/download(4).png)
 
 ### License
 
